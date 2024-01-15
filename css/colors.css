@@ -223,7 +223,7 @@ div.dl-menuwrapper button,
 .church_container_version2 .audioplayer .controls .play:hover,
 .church_container_version2 .player .progressbar .bar-played{
 	background-color:#c62641;
-	border-radius: 20px;
+	/* border-radius: 20px; */
 }
 
 
